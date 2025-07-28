@@ -1,0 +1,8 @@
+{
+  "category": "Prosody-Based Ambiguity",
+  "subcategory": "Lexical Stress Shift",
+  "description": "The meaning of the input sentence depends on which word is stressed. For example, 'SHE didn’t steal the money' vs. 'She didn’t STEAL the money'.",
+  "goal": "Generate a target sentence and multiple follow-up sentences where the correct continuation only makes sense if the lexical stress is interpreted correctly.",
+  "prompt_file": "prompts/lexical_stress_shift.txt",
+  "data_folder": "data/lexical_stress_shift"
+}
